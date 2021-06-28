@@ -1,0 +1,8 @@
+module.exports = {
+  infura: /* PUT INFURA ADDRESS HERE */,
+  contractAddress: /* PUT CONTRACT ADDRESS HERE ONCE GENERATED */,
+  primaryAdd: /* PUT PRIMARY ACCOUNT ADDRESS HERE (DEPLYING ADDR) */,
+  deployKey: /* PUT PRIMARY ACCOUNT PRIVATE KEY HERE */,
+  playerAddress: /* PUT SECONDARY ACCOUNT ADDRESS HERE */,
+  playerKey: /* PUT SECOND ACCOUNT PRIVATE KEY HERE */
+}
