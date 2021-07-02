@@ -18,6 +18,8 @@ Navigate to the web3 folder and initialize with yarn
   yarn install
 ```
 
+Copy config.example.js and rename to config.js then enter in field information
+
 Then navigate to ./demo/
 
 ```bash
