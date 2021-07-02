@@ -18,12 +18,10 @@ Navigate to the web3 folder and initialize with yarn
   yarn install
 ```
 
-Copy config.example.js and rename to config.js then enter in field information
-
 Then navigate to ./demo/
 
 ```bash
-  Copy config.example.js
+  Copy config.example.js rename to config.js
   Insert
     - Infura (or your preferred Provider) address
     - Primary account address and private key
